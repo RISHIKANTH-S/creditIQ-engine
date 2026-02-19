@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+matplotlib
+joblib
+seaborn
+setuptools
+wheel
+streamlit
+-e .
+

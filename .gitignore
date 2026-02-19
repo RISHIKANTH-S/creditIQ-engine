@@ -50,7 +50,11 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+# Logs
+logs/
 
+# Artifacts (model files)
+artifacts/
 # Translations
 *.mo
 *.pot
